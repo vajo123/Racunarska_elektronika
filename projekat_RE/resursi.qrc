@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/slike">
+        <file>zq.png</file>
+        <file>poz.png</file>
+    </qresource>
+</RCC>
